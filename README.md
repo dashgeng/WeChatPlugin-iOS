@@ -12,7 +12,7 @@
 - [Debug](#debug)
 - [Test](#test)
 - [App Store](#app-store)
-- [Documents & Resources](#documents-resources)
+- [Documents & Resources](#documents-&&-resources)
 
 ## Programming Language 
 ## Objective-C
