@@ -3,7 +3,7 @@
 该项目是用来收集和整理 iOS App 开发所需的各种技能，以及开发中遇到的问题与解决方案。
 
 ## 项目内容
-- [Objective-C](#objective-c)
+- [Objective-C](-objective-c)
 - [Swift](#swift)
 - [App Development](#app-development)
 - [Third Party Libs](#third-party-libs)
@@ -12,7 +12,7 @@
 - [Debug](#debug)
 - [Test](#test)
 - [App Store](#app-store)
-- [Documents & Resources](#documents-&-resources)
+- [Documents & Resources](#documents-resources)
 
 ## Programming Language 
 - Objective-C
