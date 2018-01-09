@@ -1,3 +1,51 @@
+# 基因 (Gene)
+该项目是用来收集和整理 iOS App 开发所需的各种技能，以及开发中遇到的问题与解决方案。
+
+## 项目内容
+- [Objective-C](#Objective-C)
+- [Swift](#Swift)
+- [App Development](#App-Development)
+- [Third Party Libs](#Third-Party-Libs)
+- [Xcode](#Xcode)
+- [Instruments](#Instruments)
+- [Debug](#Debug)
+- [Test](#Test)
+- [App Store](#App-Store)
+- [Documents & Resources](#Documents-&-Resources)
+
+## Programming Language 
+- Objective-C
+- Swift
+
+## IDE & Tools
+- Xcode
+- Instruments
+
+## Debug
+
+## Test
+
+## App Development
+
+## Third Party Libs
+
+## App Store
+
+## Documents & Resources 
+- [Apple Developer Documentation](https://developer.apple.com/documentation/)
+- [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/overview/themes/)
+- [The Swift Programming Language](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/index.html)
+- [App Store Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)
+
+
+
+## 开源协议
+
+Gene 基于 [WTFPL](http://www.wtfpl.net/about/) 协议开源。
+
+
+
+
 ## WeChatPlugin-iOS
 
 微信小助手-iOS版 v1.0.0
