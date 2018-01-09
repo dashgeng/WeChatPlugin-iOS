@@ -15,8 +15,8 @@
 - [Documents & Resources](#documents-resources)
 
 ## Programming Language 
-- Objective-C
-- Swift
+## Objective-C
+## Swift
 
 ## IDE & Tools
 - Xcode
